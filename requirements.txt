@@ -1,0 +1,6 @@
+customtkinter==5.2.1
+requests==2.31.0
+Pillow==10.1.0
+PyGithub==1.59.1
+vk-api==11.9.9
+aiohttp==3.9.1
